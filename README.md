@@ -246,9 +246,9 @@ Muestras temp: \[24.1, 23.7, 23.5]
 
 |    S01 | Semana 1      | Ficheros con `pathlib` (TXT/JSON) + orden de proyecto | `data/ejemplo\_\*.txt/json` (mínimo 1)                            | ✅      |
 
-|    S02 | Semana 2      | \*\*API sin clave → JSON en `data/`\*\* (Open-Meteo)      | `data/openmeteo\_murcia\_YYYYMMDD\_HHMM.json`                      | ⏳      |
+|    S02 | Semana 2      | \*\*API sin clave → JSON en `data/`\*\* (Open-Meteo)      | `data/openmeteo\_murcia\_YYYYMMDD\_HHMM.json`                      |✅     |
 
-|    S03 | Semana 3      | \*\*JSON → CSV\*\* (Pandas o `csv`)                       | `data/openmeteo\_murcia\_YYYYMMDD\_HHMM.csv`                       | ▶️     |
+|    S03 | Semana 3      | \*\*JSON → CSV\*\* (Pandas o `csv`)                       | `data/openmeteo\_murcia\_YYYYMMDD\_HHMM.csv`                       | ✅     |
 
 |    S04 | Semana 4      | \*\*CSV → SQLite\*\* y \*\*release v1.0\*\*                   | `data/meteo.sqlite`, \*\*tag\*\* `v1.0`, `CHANGELOG.md` actualizado | ▶️     |
 
